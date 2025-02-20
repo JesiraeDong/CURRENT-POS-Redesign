@@ -1,7 +1,7 @@
 # CURRENT-POS-Redesign
 
 ## **System Overview**
-The **CURRENT-POS-Redesign** is a **digital guest book system** designed for **point-of-sale (POS) environments**. It enables customers to leave feedback, share experiences, and interact with AI-powered responses. Businesses can collect customer insights through a **machine-learning-enhanced** experience that provides **sentiment analysis and dynamic response generation**.
+The **CURRENT-POS-Redesign** is a **digital guest book system** designed for **point-of-sale (POS) environments** such as cafes and retails. It enables customers to leave feedback, share experiences, and interact with AI-powered responses on their own devices. Businesses can collect customer feedback through a **machine-learning-enhanced** experience that provides **sentiment analysis and dynamic response generation**.
 
 The system uses **real-time device communication**, allowing interactions between **a POS interface, an AI-powered backend, and a user-accessible mobile platform**. It offers **AI-generated messages, feedback storage, and visualization tools** to improve customer engagement.
 
